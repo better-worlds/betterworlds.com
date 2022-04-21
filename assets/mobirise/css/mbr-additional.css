@@ -1611,9 +1611,9 @@ section.lazy-placeholder:after {
 .cid-sBTNAfuEN4 .read {
   transform: translate(-50%, -50%);
   position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 50px;
+  top: -10px;
+  left: -50px;
+  width: 100px;
   transition: all 0.3s;
   z-index: 3;
   color: #ffffff;
