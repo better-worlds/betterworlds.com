@@ -60,12 +60,13 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-bw-128x128.png",
     "mbrsiteDomain": "irfss2hqom",
     "cssOptimize": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://betterworlds.com/sitemap.xml",
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\nUser-agent: Twitterbot\nDisallow: *\n\nAllow: /assets/images"
   },
   "pages": {
     "index.html": {
