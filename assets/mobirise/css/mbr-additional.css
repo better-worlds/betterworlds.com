@@ -982,6 +982,126 @@ section.lazy-placeholder:after {
   color: #f4fdf3;
   text-align: center;
 }
+.cid-t3DhOIQ8cy {
+  padding-top: 1rem;
+  padding-bottom: 4rem;
+  background-color: #f4fdf3;
+}
+.cid-t3DhOIQ8cy .mbr-section-title {
+  color: #1a449a;
+}
+.cid-t3DhOIQ8cy .mbr-text {
+  color: #1a449a;
+  text-align: center;
+}
+.cid-t3DhOIQ8cy .mbr-section-subtitle {
+  color: #1a449a;
+  text-align: center;
+}
+.cid-t3DhOIQ8cy .svg-top {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: -48px;
+  height: 50px;
+  transform-origin: bottom;
+  animation: 1.5s ease-in-out infinite alternate svg-wave;
+  fill: #2568ae;
+}
+.cid-t3DhOIQ8cy .svg-top .st0 {
+  fill: #f4fdf3;
+}
+@media (max-width: 992px) {
+  .cid-t3DhOIQ8cy .svg-top {
+    width: 1000px;
+  }
+}
+@keyframes svg-wave {
+  from {
+    transform: scaleX(1) scaleY(1.1);
+  }
+  to {
+    transform: scaleX(1) scaleY(1.6);
+  }
+}
+.cid-t3Dh1FSKD1 {
+  padding-top: 1rem;
+  padding-bottom: 4rem;
+  background-color: #2568ae;
+}
+.cid-t3Dh1FSKD1 img {
+  max-width: 140px;
+  margin: auto;
+}
+.cid-t3Dh1FSKD1 .card {
+  background: white;
+  padding: 2rem 0;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+.cid-t3Dh1FSKD1 .card:hover {
+  transform: scale(0.9);
+}
+.cid-t3Dh1FSKD1 .svg-top {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: -48px;
+  height: 50px;
+  transform-origin: bottom;
+  animation: 1.5s ease-in-out infinite alternate svg-wave;
+  fill: #2568ae;
+}
+.cid-t3Dh1FSKD1 .svg-top .st0 {
+  fill: #2568ae;
+}
+@media (max-width: 992px) {
+  .cid-t3Dh1FSKD1 .svg-top {
+    width: 1000px;
+  }
+}
+.cid-t3Dh1FSKD1 .mbr-section-title {
+  color: #f4fdf3;
+}
+.cid-t3Dov0FgQG {
+  padding-top: 0rem;
+  padding-bottom: 10rem;
+  background-color: #2568ae;
+}
+.cid-t3Dov0FgQG img {
+  max-width: 140px;
+  margin: auto;
+}
+.cid-t3Dov0FgQG .card {
+  background: white;
+  padding: 2rem 0;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+.cid-t3Dov0FgQG .card:hover {
+  transform: scale(0.9);
+}
+.cid-t3Dov0FgQG .svg-top {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: -48px;
+  height: 50px;
+  transform-origin: bottom;
+  animation: 1.5s ease-in-out infinite alternate svg-wave;
+  fill: #2568ae;
+}
+.cid-t3Dov0FgQG .svg-top .st0 {
+  fill: #2568ae;
+}
+@media (max-width: 992px) {
+  .cid-t3Dov0FgQG .svg-top {
+    width: 1000px;
+  }
+}
+.cid-t3Dov0FgQG .mbr-section-subtitle {
+  color: #ffffff;
+}
 .cid-t3CfdlGgu8 {
   padding-top: 7rem;
   padding-bottom: 4rem;
