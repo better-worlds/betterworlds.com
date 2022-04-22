@@ -1,11 +1,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://betterworlds.com/sitemap.xml/index.html</loc>
-	</url>
-	<url>
 		<loc>https://betterworlds.com/sitemap.xml/404.html</loc>
 	</url>
 	<url>
-		<loc>https://betterworlds.com/sitemap.xml/index-alt.html</loc>
+		<loc>https://betterworlds.com/sitemap.xml/index-bak.html</loc>
+	</url>
+	<url>
+		<loc>https://betterworlds.com/sitemap.xml/index.html</loc>
 	</url>
 </urlset>
