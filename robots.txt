@@ -2,6 +2,9 @@ User-agent: *
 Disallow: /cgi-bin
 
 User-agent: Twitterbot
-Disallow: *
+Allow: /assets
 
-Allow: /assets/images
+User-agent: facebookexternalhit
+Allow: /assets
+
+Sitemap: https://betterworlds.com/sitemap.xml
