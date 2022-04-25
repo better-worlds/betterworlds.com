@@ -3470,6 +3470,102 @@ section.lazy-placeholder:after {
   color: #f4fdf3;
   text-align: center;
 }
+.cid-t3ZPIxQQsg {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+  background: #2568ae;
+}
+.cid-t3ZPIxQQsg .team-card {
+  margin-bottom: 2rem;
+  transition: all 0.3s;
+}
+.cid-t3ZPIxQQsg .team-card:hover {
+  transform: translateY(-10px);
+}
+.cid-t3ZPIxQQsg .svg-top {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: -48px;
+  height: 50px;
+  transform-origin: bottom;
+  animation: 1.5s ease-in-out infinite alternate svg-wave;
+  fill: #2568ae;
+}
+.cid-t3ZPIxQQsg .svg-top .st0 {
+  fill: #2568ae;
+}
+@media (max-width: 992px) {
+  .cid-t3ZPIxQQsg .svg-top {
+    width: 1000px;
+  }
+}
+@keyframes svg-wave {
+  from {
+    transform: scaleX(1) scaleY(1.1);
+  }
+  to {
+    transform: scaleX(1) scaleY(1.6);
+  }
+}
+.cid-t3ZPIxQQsg .image-wrap {
+  height: 300px;
+  padding-bottom: 2rem;
+}
+.cid-t3ZPIxQQsg .image-wrap img {
+  height: 100%;
+  object-fit: contain;
+}
+@keyframes line {
+  0% {
+    transform: scaleX(1);
+  }
+  50% {
+    transform: scaleX(0);
+  }
+  100% {
+    transform: scaleX(1);
+  }
+}
+@media (max-width: 991px) {
+  .cid-t3ZPIxQQsg .card-wrap {
+    margin-bottom: 2rem;
+  }
+}
+.cid-t3ZPIxQQsg .card-wrap .image-wrap img {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.cid-t3ZPIxQQsg .card-wrap:hover h5:before {
+  animation: 1s ease-in-out alternate line;
+}
+.cid-t3ZPIxQQsg .card-title,
+.cid-t3ZPIxQQsg .social-row {
+  color: #1a449a;
+}
+.cid-t3ZPIxQQsg .mbr-role,
+.cid-t3ZPIxQQsg .social-row {
+  color: #1a449a;
+}
+.cid-t3ZPIxQQsg .card-text,
+.cid-t3ZPIxQQsg .mbr-section-btn,
+.cid-t3ZPIxQQsg .social-row {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-t3ZPIxQQsg .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-t3ZPIxQQsg .card-title,
+.cid-t3ZPIxQQsg .content-wrap {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-t3ZPIxQQsg .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: center;
+}
 .cid-t3I4DSR7Q4 {
   padding-top: 0rem;
   padding-bottom: 3rem;
