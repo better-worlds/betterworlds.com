@@ -2928,6 +2928,102 @@ section.lazy-placeholder:after {
 .cid-t3I4DQc3WI .mbr-section-subtitle {
   color: #f4fdf3;
 }
+.cid-t4EXu09JZ5 {
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+  background: #1a449a;
+}
+.cid-t4EXu09JZ5 .team-card {
+  margin-bottom: 2rem;
+  transition: all 0.3s;
+}
+.cid-t4EXu09JZ5 .team-card:hover {
+  transform: translateY(-10px);
+}
+.cid-t4EXu09JZ5 .svg-top {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: -48px;
+  height: 50px;
+  transform-origin: bottom;
+  animation: 1.5s ease-in-out infinite alternate svg-wave;
+  fill: #2568ae;
+}
+.cid-t4EXu09JZ5 .svg-top .st0 {
+  fill: #1a449a;
+}
+@media (max-width: 992px) {
+  .cid-t4EXu09JZ5 .svg-top {
+    width: 1000px;
+  }
+}
+@keyframes svg-wave {
+  from {
+    transform: scaleX(1) scaleY(1.1);
+  }
+  to {
+    transform: scaleX(1) scaleY(1.6);
+  }
+}
+.cid-t4EXu09JZ5 .image-wrap {
+  height: 300px;
+  padding-bottom: 2rem;
+}
+.cid-t4EXu09JZ5 .image-wrap img {
+  height: 100%;
+  object-fit: contain;
+}
+@keyframes line {
+  0% {
+    transform: scaleX(1);
+  }
+  50% {
+    transform: scaleX(0);
+  }
+  100% {
+    transform: scaleX(1);
+  }
+}
+@media (max-width: 991px) {
+  .cid-t4EXu09JZ5 .card-wrap {
+    margin-bottom: 2rem;
+  }
+}
+.cid-t4EXu09JZ5 .card-wrap .image-wrap img {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.cid-t4EXu09JZ5 .card-wrap:hover h5:before {
+  animation: 1s ease-in-out alternate line;
+}
+.cid-t4EXu09JZ5 .card-title,
+.cid-t4EXu09JZ5 .social-row {
+  color: #1a449a;
+}
+.cid-t4EXu09JZ5 .mbr-role,
+.cid-t4EXu09JZ5 .social-row {
+  color: #1a449a;
+}
+.cid-t4EXu09JZ5 .card-text,
+.cid-t4EXu09JZ5 .mbr-section-btn,
+.cid-t4EXu09JZ5 .social-row {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-t4EXu09JZ5 .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-t4EXu09JZ5 .card-title,
+.cid-t4EXu09JZ5 .content-wrap {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-t4EXu09JZ5 .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: center;
+}
 .cid-t3I4DR67EA .navbar-dropdown {
   position: relative !important;
 }
@@ -3296,8 +3392,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-t4bW1s4YvO {
-  padding-top: 7rem;
-  padding-bottom: 10rem;
+  padding-top: 0rem;
+  padding-bottom: 7rem;
   background: #1a449a;
 }
 .cid-t4bW1s4YvO .team-card {
