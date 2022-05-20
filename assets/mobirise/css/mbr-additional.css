@@ -5186,7 +5186,7 @@ section.lazy-placeholder:after {
   font-size: 4rem;
   transition: all 0.2s;
 }
-.cid-t6pxCMP4fQ .modalWindow {
+.cid-t6pxCMP4fQ .modalWindow2 {
   position: fixed;
   z-index: 5000;
   left: 0;
@@ -5195,16 +5195,16 @@ section.lazy-placeholder:after {
   width: 100%;
   height: 100%;
 }
-.cid-t6pxCMP4fQ .modalWindow .modalWindow-container {
+.cid-t6pxCMP4fQ .modalWindow2 .modalWindow-container2 {
   display: table-cell;
   vertical-align: middle;
 }
-.cid-t6pxCMP4fQ .modalWindow .modalWindow-video {
+.cid-t6pxCMP4fQ .modalWindow2 .modalWindow-video2 {
   height: calc(44.9943757vw);
   width: 80vw;
   margin: 0 auto;
 }
-.cid-t6pxCMP4fQ .close {
+.cid-t6pxCMP4fQ .close2 {
   position: fixed;
   opacity: 0.5;
   font-size: 22px;
@@ -5223,7 +5223,7 @@ section.lazy-placeholder:after {
   justify-content: center;
   display: flex;
 }
-.cid-t6pxCMP4fQ .close:hover {
+.cid-t6pxCMP4fQ .close2:hover {
   opacity: 1;
   background: #000;
   color: #fff;

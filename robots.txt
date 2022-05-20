@@ -8,3 +8,4 @@ User-agent: facebookexternalhit
 Allow: /assets
 
 Sitemap: https://betterworlds.com/sitemap.xml
+
