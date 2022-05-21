@@ -3248,6 +3248,9 @@ section.lazy-placeholder:after {
 .cid-t67QWueXAn .mbr-text {
   text-align: center;
 }
+.cid-t67QWueXAn .mbr-section-title {
+  color: #2568ae;
+}
 .cid-t67QWyGMqF {
   padding-top: 1rem;
   padding-bottom: 3rem;
@@ -3345,7 +3348,7 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-t67QWwYdq7 {
-  padding-top: 0rem;
+  padding-top: 3rem;
   padding-bottom: 2rem;
   background: #1a449a;
 }
@@ -3994,7 +3997,7 @@ section.lazy-placeholder:after {
   color: #f4fdf3;
 }
 .cid-t67QWApXjp {
-  padding-top: 105px;
+  padding-top: 30px;
   padding-bottom: 150px;
   background-color: #2568ae;
 }
@@ -4281,7 +4284,7 @@ section.lazy-placeholder:after {
   animation: 1.5s ease-in-out infinite alternate svg;
 }
 .cid-t61puGad02 svg path {
-  fill: #f4fdf3;
+  fill: #ffffff;
 }
 @media (max-width: 992px) {
   .cid-t61puGad02 svg {
@@ -4302,7 +4305,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-t61puGad02 .mbr-section-title {
-  color: #f4fdf3;
+  color: #ffffff;
 }
 @media (min-width: 1400px) {
   .cid-t61puGad02 .col-12 {
@@ -4314,7 +4317,7 @@ section.lazy-placeholder:after {
 }
 .cid-t61puGad02 .mbr-text,
 .cid-t61puGad02 .mbr-section-btn {
-  color: #f4fdf3;
+  color: #ffffff;
 }
 .cid-t68oqOPwp7 {
   padding-top: 5rem;
