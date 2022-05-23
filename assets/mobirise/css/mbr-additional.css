@@ -3308,7 +3308,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-t67QWyGMqF .image-wrap {
-  height: 300px;
+  height: 100px;
   padding-bottom: 2rem;
 }
 .cid-t67QWyGMqF .image-wrap img {
@@ -3926,6 +3926,102 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-t67QWy7U1h .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-t6GThw5yju {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+  background: #2568ae;
+}
+.cid-t6GThw5yju .team-card {
+  margin-bottom: 2rem;
+  transition: all 0.3s;
+}
+.cid-t6GThw5yju .team-card:hover {
+  transform: translateY(-10px);
+}
+.cid-t6GThw5yju .svg-top {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: -48px;
+  height: 50px;
+  transform-origin: bottom;
+  animation: 1.5s ease-in-out infinite alternate svg-wave;
+  fill: #2568ae;
+}
+.cid-t6GThw5yju .svg-top .st0 {
+  fill: #2568ae;
+}
+@media (max-width: 992px) {
+  .cid-t6GThw5yju .svg-top {
+    width: 1000px;
+  }
+}
+@keyframes svg-wave {
+  from {
+    transform: scaleX(1) scaleY(1.1);
+  }
+  to {
+    transform: scaleX(1) scaleY(1.6);
+  }
+}
+.cid-t6GThw5yju .image-wrap {
+  height: 100px;
+  padding-bottom: 2rem;
+}
+.cid-t6GThw5yju .image-wrap img {
+  height: 100%;
+  object-fit: contain;
+}
+@keyframes line {
+  0% {
+    transform: scaleX(1);
+  }
+  50% {
+    transform: scaleX(0);
+  }
+  100% {
+    transform: scaleX(1);
+  }
+}
+@media (max-width: 991px) {
+  .cid-t6GThw5yju .card-wrap {
+    margin-bottom: 2rem;
+  }
+}
+.cid-t6GThw5yju .card-wrap .image-wrap img {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.cid-t6GThw5yju .card-wrap:hover h5:before {
+  animation: 1s ease-in-out alternate line;
+}
+.cid-t6GThw5yju .card-title,
+.cid-t6GThw5yju .social-row {
+  color: #1a449a;
+}
+.cid-t6GThw5yju .mbr-role,
+.cid-t6GThw5yju .social-row {
+  color: #1a449a;
+}
+.cid-t6GThw5yju .card-text,
+.cid-t6GThw5yju .mbr-section-btn,
+.cid-t6GThw5yju .social-row {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-t6GThw5yju .mbr-section-title {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-t6GThw5yju .card-title,
+.cid-t6GThw5yju .content-wrap {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-t6GThw5yju .mbr-section-subtitle {
   color: #ffffff;
   text-align: center;
 }
