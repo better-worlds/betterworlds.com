@@ -3,9 +3,6 @@
 		<loc>https://betterworlds.com/sitemap.xml/404.html</loc>
 	</url>
 	<url>
-		<loc>https://betterworlds.com/sitemap.xml/index-bak.html</loc>
-	</url>
-	<url>
 		<loc>https://betterworlds.com/sitemap.xml/media-release.html</loc>
 	</url>
 	<url>
@@ -19,5 +16,8 @@
 	</url>
 	<url>
 		<loc>https://betterworlds.com/sitemap.xml/about.html</loc>
+	</url>
+	<url>
+		<loc>https://betterworlds.com/sitemap.xml/index-earthday-2022.html</loc>
 	</url>
 </urlset>
