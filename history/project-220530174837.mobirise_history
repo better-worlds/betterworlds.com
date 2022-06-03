@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "podcast.html",
     "theme": {
       "name": "beveragem5",
       "title": "BeverageM5",
@@ -63,7 +63,7 @@
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://betterworlds.com",
+    "siteUrl": "https://betterworlds.com/sitemap.xml",
     "cookiesAlert": false,
     "gdpr": false,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\nUser-agent: Twitterbot\nAllow: /assets\n\nUser-agent: facebookexternalhit\nAllow: /assets\n\nSitemap: https://betterworlds.com/sitemap.xml\n\n",
