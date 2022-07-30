@@ -9,6 +9,8 @@ body {
   font-weight: 400;
   color: #232323;
   position: relative;
+  overflow: hidden;
+  overflow-y: auto;
 }
 
 button {
