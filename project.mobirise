@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "podcast.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "beveragem5",
       "title": "BeverageM5",
@@ -1703,10 +1703,10 @@
               }
             },
             ".mbr-text": {
-              "color": "#ffffff"
+              "color": "#2568ae"
             },
             ".name": {
-              "color": "#ffffff"
+              "color": "#2568ae"
             },
             ".position": {
               "color": "#1a449a"
@@ -3895,10 +3895,10 @@
               }
             },
             ".mbr-text": {
-              "color": "#ffffff"
+              "color": "#2568ae"
             },
             ".name": {
-              "color": "#ffffff"
+              "color": "#2568ae"
             },
             ".position": {
               "color": "#1a449a"
@@ -3981,10 +3981,10 @@
               }
             },
             ".mbr-text": {
-              "color": "#ffffff"
+              "color": "#2568ae"
             },
             ".name": {
-              "color": "#ffffff"
+              "color": "#2568ae"
             },
             ".position": {
               "color": "#1a449a"
