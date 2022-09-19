@@ -2122,6 +2122,102 @@ section.lazy-placeholder:after {
 .cid-td27PCdBVz .mbr-section-subtitle {
   color: #f4fdf3;
 }
+.cid-thVgr6B9wh {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background: #ebfdea;
+}
+.cid-thVgr6B9wh .team-card {
+  margin-bottom: 2rem;
+  transition: all 0.3s;
+}
+.cid-thVgr6B9wh .team-card:hover {
+  transform: translateY(-10px);
+}
+.cid-thVgr6B9wh .svg-top {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: -48px;
+  height: 50px;
+  transform-origin: bottom;
+  animation: 1.5s ease-in-out infinite alternate svg-wave;
+  fill: #2568ae;
+}
+.cid-thVgr6B9wh .svg-top .st0 {
+  fill: #ebfdea;
+}
+@media (max-width: 992px) {
+  .cid-thVgr6B9wh .svg-top {
+    width: 1000px;
+  }
+}
+@keyframes svg-wave {
+  from {
+    transform: scaleX(1) scaleY(1.1);
+  }
+  to {
+    transform: scaleX(1) scaleY(1.6);
+  }
+}
+.cid-thVgr6B9wh .image-wrap {
+  height: 300px;
+  padding-bottom: 2rem;
+}
+.cid-thVgr6B9wh .image-wrap img {
+  height: 100%;
+  object-fit: contain;
+}
+@keyframes line {
+  0% {
+    transform: scaleX(1);
+  }
+  50% {
+    transform: scaleX(0);
+  }
+  100% {
+    transform: scaleX(1);
+  }
+}
+@media (max-width: 991px) {
+  .cid-thVgr6B9wh .card-wrap {
+    margin-bottom: 2rem;
+  }
+}
+.cid-thVgr6B9wh .card-wrap .image-wrap img {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+.cid-thVgr6B9wh .card-wrap:hover h5:before {
+  animation: 1s ease-in-out alternate line;
+}
+.cid-thVgr6B9wh .card-title,
+.cid-thVgr6B9wh .social-row {
+  color: #1a449a;
+}
+.cid-thVgr6B9wh .mbr-role,
+.cid-thVgr6B9wh .social-row {
+  color: #1a449a;
+}
+.cid-thVgr6B9wh .card-text,
+.cid-thVgr6B9wh .mbr-section-btn,
+.cid-thVgr6B9wh .social-row {
+  color: #1a449a;
+  text-align: center;
+}
+.cid-thVgr6B9wh .mbr-section-title {
+  color: #2568ae;
+  text-align: center;
+}
+.cid-thVgr6B9wh .card-title,
+.cid-thVgr6B9wh .content-wrap {
+  color: #1a449a;
+  text-align: center;
+}
+.cid-thVgr6B9wh .mbr-section-subtitle {
+  color: #2568ae;
+  text-align: center;
+}
 .cid-tg0HOOHrVF {
   padding-top: 3rem;
   padding-bottom: 7rem;
