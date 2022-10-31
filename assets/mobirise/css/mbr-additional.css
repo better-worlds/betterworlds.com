@@ -4304,6 +4304,66 @@ section.lazy-placeholder:after {
     left: -1rem;
   }
 }
+.cid-tlRNEAB42j {
+  padding-top: 7rem;
+  padding-bottom: 10rem;
+  background-color: #ebfdea;
+}
+.cid-tlRNEAB42j .row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-tlRNEAB42j .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tlRNEAB42j .wave-container {
+  position: absolute;
+  left: 0;
+  top: -110px;
+  height: 113px;
+  overflow: hidden;
+  width: 100%;
+}
+.cid-tlRNEAB42j .svg-top {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 50px;
+  transform-origin: bottom;
+  animation: 1.5s ease-in-out infinite alternate svg-wave;
+  fill: #2568ae;
+}
+.cid-tlRNEAB42j .svg-top .st0 {
+  fill: #ebfdea;
+}
+@media (max-width: 992px) {
+  .cid-tlRNEAB42j .svg-top {
+    width: 1000px;
+  }
+}
+.cid-tlRNEAB42j .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-tlRNEAB42j .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-tlRNEAB42j .mbr-text {
+  color: #2568ae;
+}
+.cid-tlRNEAB42j .name {
+  color: #1a449a;
+}
+.cid-tlRNEAB42j .position {
+  color: #1a449a;
+}
+.cid-tlRNEAB42j .mbr-section-title {
+  color: #2568ae;
+}
 .cid-td22mb2bG4 {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -4353,7 +4413,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-td22mb2bG4 .mbr-text {
-  color: #1a449a;
+  color: #2568ae;
 }
 .cid-td22mb2bG4 .name {
   color: #1a449a;
@@ -4413,7 +4473,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-thjsPpX6V6 .mbr-text {
-  color: #1a449a;
+  color: #2568ae;
 }
 .cid-thjsPpX6V6 .name {
   color: #1a449a;
